@@ -8,7 +8,7 @@ Consulta la información sobre los ODS relacionados con la informática y el des
 
 ### **Otros ODS relacionados**
 
-[ODS 16: Paz, justicia e instituciones sólidas (Álvaro)](https://apermar1301.github.io/SASP_Fase1_Web/#ods16) 
+[ODS 7: Energía asequible y no contaminante (Oleg)](https://oleglukyyy.github.io/Saspfase1Web/ods07-energia/) 
 
-
+[ODS 16: Paz, justicia e instituciones sólidas (Álvaro)](https://apermar1301.github.io/SASP_Fase1_Web/ods16-paz/) 
 
