@@ -4,7 +4,6 @@ nav:
   - Home: index.md
   - SASP: sostenibilidad.md
   - ODS: ods.md
-
   - Reflexiones: reflexiones.md
 
 theme: cinder

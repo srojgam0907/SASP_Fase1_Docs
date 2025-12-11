@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# Bienvenido a la Sostenibilidad
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Un proyecto que habla sobre que es en realidad la sostenibilidad y como afecta en un entorno y un contexto informático.
 
-## Commands
+## ¿Qué es la Sostenibilidad?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Averigualo en el siguiente enlace:
 
-## Project layout
+[Sostenibilidad](sostenibilidad.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Objetivos de desarrollo sostenible
+
+Averigua que ODS interfieren en algún aspecto en la informática y la tecnología:
+
+[Objetivos de desarrollo sostenible](ods.md)
+
+## Reflexión
+
+Mis reflexiones sobre esta información en el siguiente enlace:
+
+[Mi reflexión](reflexiones.md)
